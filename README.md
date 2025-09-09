@@ -7,8 +7,8 @@ O objetivo foi aplicar um framework de análise ética para identificar **vieses
 ---
 
 ## 📂 Conteúdo
-- `Relatorio_Reconhecimento_Facial.docx` → versão editável do relatório.  
-- `Relatorio_Reconhecimento_Facial.pdf` → versão final para consulta.  
+- [Relatorio_Reconhecimento_Facial.docx](https://github.com/jonathanzillig/relatorio-etica-reconhecimento-facial/blob/main/An%C3%A1lise%20%C3%89tica%20sobre%20Reconhecimento%20Facial.docx) → versão editável do relatório.  
+- [elatorio_Reconhecimento_Facial.pdf]() → versão final para consulta.  
 
 ---
 
